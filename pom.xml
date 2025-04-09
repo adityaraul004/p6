@@ -8,8 +8,8 @@
   <name>MavenExp6</name>
   <url>http://maven.apache.org</url>
    <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>17</maven.compiler.release>
+    <maven.compiler.release>7</maven.compiler.release>
+     <maven.target.release>7</maven.target.release>
   </properties>
   <dependencies>
     <dependency>
